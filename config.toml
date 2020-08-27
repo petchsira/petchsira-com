@@ -14,11 +14,19 @@ pygmentsUseClasses = true
   highlight = true
 
 [menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    title = "home"
+    url = "/"
+    weight = 1
+    
   [[menu.main]]
     identifier = "posts"
-    name = "posts"
+    name = "blog"
     title = "posts"
-    url = "/"
+    url = "/blog"
     weight = 10
 
   [[menu.main]]
