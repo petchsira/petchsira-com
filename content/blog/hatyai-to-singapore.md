@@ -1,11 +1,9 @@
 ---
-title: จากหาดใหญ่สู่สิงคโปร์ ครั้งแรก
-description:  เมื่อนิสิตคนหนึ่งใช้วันหยุดปิดเทอมอันน้อยนิดไปกับสิ่งที่เขาชอบ
-excerpt: >- 
-    เมื่อนิสิตคนหนึ่งใช้วันหยุดปิดเทอมอันน้อยนิดไปกับสิ่งที่เขาชอบ
-date: '2020-05-31'
+title: "จากหาดใหญ่สู่สิงคโปร์ ครั้งแรก"
+description: "เมื่อนิสิตคนหนึ่งใช้วันหยุดปิดเทอมอันน้อยนิดไปกับสิ่งที่เขาชอบ"
+date: 2020-05-31
 thumb_img_path: /images/hdytosin/hdytosin_1.jpg
-layout: post
+tags: ["Rail"]
 ---
 
 ![Hatyai to Singapore](/images/hdytosin/hdytosin_1.jpg)
