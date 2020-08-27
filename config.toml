@@ -8,6 +8,7 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
+  description = "petchsira's website"
   copyright = "Copyright © petchsira"
   dark = "auto"
   highlight = true
