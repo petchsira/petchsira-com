@@ -1,7 +1,6 @@
 baseURL = "https://petchsira.com/"
 languageCode = "en-us"
 title = "petchsira"
-theme = "etch"
 enableEmoji = true
 enableInlineShortcodes = true
 pygmentsCodeFences = true
