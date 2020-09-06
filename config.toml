@@ -20,7 +20,7 @@ pygmentsUseClasses = true
     title = "home"
     url = "/"
     weight = 1
-    
+
   [[menu.main]]
     identifier = "posts"
     name = "blog"
@@ -39,5 +39,6 @@ pygmentsUseClasses = true
   posts = "/:title/"
 
 [markup.goldmark.renderer]
+
   # Allows HTML in Markdown
   unsafe = true
