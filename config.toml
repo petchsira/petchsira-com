@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 
 [params]
   description = "petchsira's website"
-  copyright = "Copyright © petchsira"
+  copyright = ""
   dark = "auto"
   highlight = true
 
