@@ -38,6 +38,9 @@ pygmentsUseClasses = true
 [permalinks]
   posts = "/:title/"
 
+[taxonomies]
+  tag = "tags"
+
 [markup.goldmark.renderer]
 
   # Allows HTML in Markdown
