@@ -3,7 +3,7 @@ title : "หนึ่งปีกับป้ายไฟ"
 description : "เมื่อทั้งคลังภาพผมมีแต่รถเมล์ที่เลขสายอยู่ฝั่งทางเท้า"
 date : 2020-08-27
 tags : ["bus"]
-draft: true
+
 ---
 
 ![PHOTO](/images/ledbmta/Photo_0.jpeg)
