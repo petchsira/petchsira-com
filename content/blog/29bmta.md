@@ -5,7 +5,7 @@ tags: ["bus"]
 date: '2020-06-29'
 thumb_img_path: /images/29-50386-1.jpg
 layout: post
-draft: true
+
 ---
 
 ![BMTA-29](/images/29-50386-1.jpg)
