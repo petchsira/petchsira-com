@@ -1,13 +1,12 @@
 ---
 title: "life update"
-date: 2021-05-11
+date: 2022-05-11
 description: ""
 keywords: []
 tags: ["blog"]
 draft: false
 ---
 
-# Life update, May 2022
 
 Words have rumored that this semester will surely feel better than the past ones, however things feel like the opposite to me. Learning is sped up significantly, subjects last roughly 2-4 weeks before an exam comes up and students move on to the next one.
 
