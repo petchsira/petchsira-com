@@ -4,7 +4,7 @@ date: 2020-08-27
 description: "Written by a novice with minimal coding skills"
 keywords: ["iPad", "blogging", "markdown", "github"]
 tags: ["iPad", "blog"]
-draft: true
+draft: false
 ---
 
 Trying to blog via code on an iPad is made viable in apps thanks to developers, but **writing your own code on Github** if you're on a budget can still cope with the limitations of not being able to access the PC in some circumstances.
